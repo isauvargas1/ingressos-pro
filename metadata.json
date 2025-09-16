@@ -1,0 +1,7 @@
+{
+  "name": "Gerenciador de Eventos Pro",
+  "description": "Uma aplicação web PWA para gerenciamento completo de eventos, desde a importação de participantes até o check-in com QR code e emissão de certificados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
